@@ -7,17 +7,23 @@ These instructions will get you a copy of the project up and running on your loc
 Installation
 1. The first step to running this repo locally is downloading the code by cloning the repository
 
-git clone git@github.com:benjibd/automatedTest.git
-
-2. Pass in the right url in the script
-
-After cloning, do the following:
+ git clone git@github.com:benjibd/automatedTest.git
+ 
+ 2. After cloning, do the following:
 
  cd automatedTest
  
  npm install
  
- node index.js
+3. Download patient managent app from https://github.com/mPharma/qa-take-home-test
+
+4. Follow instructions to start initiate patient management
+
+5. Set patient management app url in script
+
+6. Run node index.js to run test script
+
+
  
 NB: You need Nodejs/NPM on your local machine for this project to work
 
