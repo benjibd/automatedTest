@@ -24,4 +24,6 @@ Installation
 
  
 NB: You need Nodejs/NPM on your local machine for this project to work
+    You need firefox web driver on your local machine. Follow link below to download and install based on Operating system settings
+    https://github.com/mozilla/geckodriver/releases/
 
