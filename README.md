@@ -17,9 +17,9 @@ Installation
  
 3. Download patient managent app from https://github.com/mPharma/qa-take-home-test
 
-4. Follow instructions to start initiate patient management
+4. Follow instructions to start patient management
 
-5. Set patient management app url in script
+5. Copy patient management app url and set it in testing script
 
 6. Run node index.js to run test script
 
