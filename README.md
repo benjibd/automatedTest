@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 Installation
 1. The first step to running this repo locally is downloading the code by cloning the repository
 
-git clone https://github.com/mPharma/qa-take-home-test.git
+git clone git@github.com:benjibd/automatedTest.git
 
 2. Pass in the right url in the script
 
