@@ -5,7 +5,7 @@ Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
 
 Installation
-1. Download test script from  https://git clone git@github.com:benjibd/automatedTest.git
+1. Download test script from  https://github.com/benjibd/automatedTest
 
 2. After cloning, do the following:
 
