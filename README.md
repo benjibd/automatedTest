@@ -9,9 +9,9 @@ Installation
 
 2. After cloning, do the following:
 
- cd automatedTest
+   cd automatedTest
  
- npm install
+   npm install
  
 3. Download patient managent app from https://github.com/mPharma/qa-take-home-test
 
