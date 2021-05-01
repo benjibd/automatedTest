@@ -1,19 +1,18 @@
 const { Builder, By } = require("selenium-webdriver");
 const faker = require('faker');
 const moment = require('moment');
-const waterfall = require('async/waterfall');
 const driver = new Builder()
-  .forBrowser("firefox")
+  .forBrowser("chrome")
   .build();
 
-
+const url = "http://192.168.4.124:3000"
 
 async function createPatientsAllFields() {
 
   try {
 
 
-    await driver.get("http://192.168.4.124:3000")
+    await driver.get(url)
     
       let fName = faker.name.firstName()
       let lName = faker.name.lastName()
@@ -52,7 +51,7 @@ async function createPatientRequiredFieldsOnly() {
   try {
 
 
-    await driver.get("http://192.168.4.124:3000")
+    await driver.get(url)
 
     let fName = faker.name.firstName()
     let lName = faker.name.lastName()  
